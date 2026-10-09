@@ -60,15 +60,15 @@ button {
 }
 
 .brand-logo {
-  width: 35px;
-  height: 35px;
+  width: 15%;
+  height: 10%;
   object-fit: contain;
 }
 
 .nav-menu {
   display: flex;
   align-items: center;
-  gap: clamp(18px, 3vw, 38px);
+  gap: clamp(18px, 10vw, 60px);
   color: #d8e1ed;
   font-size: .88rem;
 }
